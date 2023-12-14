@@ -19,7 +19,6 @@ namespace ConAppProductInventory
             {
                 con = new SqlConnection(conStr);
                 con.Open();
-                Console.WriteLine("Connected to Database!");
 
                 ViewProductInventory();
 
