@@ -1,0 +1,7 @@
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day6\ConAppProductInventory\ConAppProductInventory\bin\Debug\ConAppProductInventory.exe.config
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day6\ConAppProductInventory\ConAppProductInventory\bin\Debug\ConAppProductInventory.exe
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day6\ConAppProductInventory\ConAppProductInventory\bin\Debug\ConAppProductInventory.pdb
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day6\ConAppProductInventory\ConAppProductInventory\obj\Debug\ConAppProductInventory.csproj.AssemblyReference.cache
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day6\ConAppProductInventory\ConAppProductInventory\obj\Debug\ConAppProductInventory.csproj.CoreCompileInputs.cache
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day6\ConAppProductInventory\ConAppProductInventory\obj\Debug\ConAppProductInventory.exe
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase3\P3Day6\ConAppProductInventory\ConAppProductInventory\obj\Debug\ConAppProductInventory.pdb
