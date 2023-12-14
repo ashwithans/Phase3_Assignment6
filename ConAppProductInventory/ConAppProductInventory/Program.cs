@@ -21,16 +21,12 @@ namespace ConAppProductInventory
                 con.Open();
                 Console.WriteLine("Connected to Database!");
 
-                // Step 4: View Product Inventory
                 ViewProductInventory();
 
-                // Step 5: Add New Product
                 AddNewProduct();
 
-                // Step 6: Update Product Quantity
                 UpdateProductQuantity();
 
-                // Step 7: Remove Product
                 RemoveProduct();
             }
             catch (Exception ex)
@@ -46,7 +42,6 @@ namespace ConAppProductInventory
             Console.ReadKey();
         }
 
-        // Step 4: View Product Inventory
         static void ViewProductInventory()
         {
             string query = "SELECT * FROM Products";
@@ -61,7 +56,6 @@ namespace ConAppProductInventory
             reader.Close();
         }
 
-        // Step 5: Add New Product
         static void AddNewProduct()
         {
             Console.WriteLine("\n-- Add New Product --");
@@ -97,7 +91,6 @@ namespace ConAppProductInventory
                 Console.WriteLine("New Product Added Successfully!");
         }
 
-        // Step 6: Update Product Quantity
         static void UpdateProductQuantity()
         {
             Console.WriteLine("\n-- Update Product Quantity --");
@@ -117,7 +110,6 @@ namespace ConAppProductInventory
                 Console.WriteLine("Product Quantity Updated Successfully!");
         }
 
-        // Step 7: Remove Product
         static void RemoveProduct()
         {
             Console.WriteLine("\n-- Remove Product --");
